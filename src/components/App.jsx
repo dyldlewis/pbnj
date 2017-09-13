@@ -1,9 +1,10 @@
-import React from 'react';
+import React from "react";
+import Sammich from "./Sammich";
 
 function App(props){
   return(
     <div>
-      <h1>App Works!</h1>
+      <Sammich/>
     </div>
   );
 }
