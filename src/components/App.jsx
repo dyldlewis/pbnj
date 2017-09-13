@@ -4,7 +4,7 @@ import Sammich from "./Sammich";
 function App(props){
   return(
     <div>
-      <Sammich/>
+      <Sammich thing="helloyoungdylan"/>
     </div>
   );
 }
